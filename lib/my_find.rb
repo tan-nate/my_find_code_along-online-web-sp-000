@@ -7,8 +7,7 @@ def my_find(collection)
     i = i + 1
   end
  
-  if block_return_values.include?(false)
-    false
+  if 
   else
     true
   end
